@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/grasielip/grasielip/main/imagens%20certificações/text.gif" width="700" alt="Minha animação">
+<img src="https://raw.githubusercontent.com/grasielip/grasielip/main/imagens%20certificações/nome.gif" width="700" alt="Minha animação">
 
 
 - 🔭 I’m currently working on **projetos em Java, Python e Cloud**.
