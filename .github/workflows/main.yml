@@ -1,26 +1,41 @@
-name: Generate Snake
+nname: Generate Snake
 
+# Roda manualmente e por agenda (diário). Ajuste o cron se quiser outra frequência.
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todo dia meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# Permissões necessárias para que o action consiga criar/atualizar arquivos no repo
+permissions:
+  contents: write
+  actions: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          github_user_name: grasielip
-          outputs: |
-            dist/snake.svg
+          persist-credentials: true   # importante para que EndBug use o GITHUB_TOKEN
+          fetch-depth: 0
 
-      - name: Push changes
+      - name: Generate snake (SVG only)
+        uses: Platane/snk/svg-only@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}   # usa o dono do repositório (ex: grasielip)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
+
+      - name: Add & commit generated SVG
         uses: EndBug/add-and-commit@v9
         with:
-          add: "dist/snake.svg"
-          message: "Atualizando a cobrinha 🐍"
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "Atualizando cobrinha 🐍"
+          add: "dist/github-contribution-grid-snake.svg"
