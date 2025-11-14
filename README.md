@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/grasielip/grasielip/main/assets/name-game.svg" width="600" alt="Grasieli Figueredo">
 
 <img src="https://raw.githubusercontent.com/grasielip/grasielip/main/imagens%20certificações/nome.gif" width="700" alt="Minha animação">
 
