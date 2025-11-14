@@ -34,8 +34,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=grasieli&show_icons=true&theme=radical" alt="Estatísticas GitHub">
 </div>
 
-### 🐍 Minhas contribuições no GitHub
-![Snake animation](https://raw.githubusercontent.com/grasielip/grasielip/main/dist/snake.svg)
+### 🐍 Minhas contribuições (Snake)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grasielip/grasielip/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/grasielip/grasielip/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
