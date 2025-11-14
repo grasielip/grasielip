@@ -1,4 +1,7 @@
-# 👋 Olá, eu sou Grasieli Figueredo
+### 👋 Olá, eu sou a Grasieli Figueredo
+
+<img src="https://raw.githubusercontent.com/grasielip/grasielip/main/assets/gif-grasieli.gif" width="400">
+
 
 
 - 🔭 I’m currently working on **projetos em Java, Python e Cloud**.
