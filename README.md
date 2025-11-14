@@ -22,47 +22,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
-https://raw.githubusercontent.com/grasielip/grasielip/main/certificados%20de%20imagens/badge_python_essentials.png
-
-## 🏆 Certificações
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- Python Essentials -->
-  <a href="https://www.credly.com/badges/b1d186e8-5487-4dcf-9b2b-2c6f366d8293/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/grasielip/grasielip/main/certificados%20de%20imagens/badge_python_essentials.png" 
-         alt="Python Essentials" width="60" height="60"/>
-  </a>
-
-  <!-- AWS Cloud Practitioner -->
-  <a href="https://www.credly.com/badges/7f75185f-be03-4f90-abde-09728d1c357f/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/grasielip/grasielip/main/certificados%20de%20imagens/badge_aws_cloud_practitioner.png" 
-         alt="AWS Certified Cloud Practitioner" width="60" height="60"/>
-  </a>
-
-  <!-- Badge duplicado Python Essentials (se quiser remover, fique à vontade) -->
-  <a href="https://www.credly.com/badges/b1d186e8-5487-4dcf-9b2b-2c6f366d8293/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/grasielip/grasielip/main/certificados%20de%20imagens/badge_python_essentials.png" 
-         alt="Python Essentials" width="60" height="60"/>
-  </a>
-
-  <!-- Certificação 3 -->
-  <a href="https://www.credly.com/badges/258f46b9-d85f-4bb5-826a-bf63d9ad2739/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/grasielip/grasielip/main/certificados%20de%20imagens/badge_certificacao3.png" 
-         alt="Certificação 3" width="60" height="60"/>
-  </a>
-
-  <!-- Certificação 4 -->
-  <a href="https://www.credly.com/badges/ce21a33c-65c8-490c-9182-5319bdbdced2/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/grasielip/grasielip/main/certificados%20de%20imagens/badge_certificacao4.png" 
-         alt="Certificação 4" width="60" height="60"/>
-  </a>
-
-</div>
-
----
-
 ## 🛠️ Minhas Skills
 
 <div align="center">
