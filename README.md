@@ -6,9 +6,12 @@
 - 👯 I’m looking to collaborate on **projetos de cloud computing e automação**.
 - 🤔 I’m looking for help with **arquitetura AWS e deploy seguro**.
 - 💬 Ask me about **Java, Python, desenvolvimento de APIs, AWS e Oracle Database**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/seu-perfil/)**
-- 😄 Pronouns: **ela/dela**
-- ⚡ Fun fact: **Adoro transformar problemas complexos em soluções simples usando tecnologia**.
+  
+- ## 📫 Como me alcançar
+
+- ✉️ Email: [grasielifigueredo2@gmail.com](mailto:grasielifigueredo2@gmail.com)  
+- ⁠🔗 LinkedIn: [Grasieli Priscila de Paula Figueredo](https://br.linkedin.com/in/grasieli-figueredo)
+
 
   ###  Badges de Tecnologias
   
