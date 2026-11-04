@@ -1,14 +1,14 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=130&section=header&text=Olá,%20eu%20sou%20a%20Grasieli%20👋&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Grasieli Banner" />
+  
+  <p style="color: #007EC6; font-size: 16px; margin-top: 5px;">
+    <em>Formada em <strong>Administração</strong> e estudante de <strong>Ciência da Computação</strong>. Uso tecnologia para tirar tarefas manuais do caminho: <strong>automação, nuvem (AWS) e dados</strong>.</em>
+  </p>
 
-<img src="https://raw.githubusercontent.com/grasielip/grasielip/main/imagens%20certifica%C3%A7%C3%B5es/text.gif" alt="Grasieli Figueredo">
-
+  <p>🌐 <strong>Portfólio:</strong> <a href="https://grasielip.github.io" target="_blank" style="color: #007EC6;">grasielip.github.io</a></p>
 </div>
 
-# Olá, eu sou a Grasieli 👋
-
-Formada em **Administração** e estudante de **Ciência da Computação**. Uso tecnologia para tirar tarefas manuais do caminho: **automação, nuvem (AWS) e dados**.
-
-🌐 **Portfólio:** https://grasielip.github.io
+---
 
 ## 🔭 O que estou fazendo agora
 
@@ -26,23 +26,27 @@ Java, Python, desenvolvimento de APIs, AWS, Oracle Database, SQL e automação c
 - Projetos de cloud computing e automação.
 - Arquitetura AWS e deploy seguro.
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
   <!-- Linguagens -->
-  **Linguagens**
+  <strong>Linguagens</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  
+  <br><br>
 
   <!-- Nuvem e Dados -->
-  **Nuvem e dados**
+  <strong>Nuvem e dados</strong><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   
+  <br><br>
+
   <!-- Automação & Ferramentas -->
-  **Automação**
+  <strong>Automação</strong><br>
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=n.js&logoColor=white" alt="Node.js" />
 </p>
@@ -60,25 +64,22 @@ Java, Python, desenvolvimento de APIs, AWS, Oracle Database, SQL e automação c
 - **Jogo de adivinhação serverless na AWS:** API REST com Lambda, API Gateway e S3.
 - **AllEyes:** arquitetura de referência na AWS com Amazon Bedrock e Amazon Lex.
 
-<!-- Quando criar os repositórios, transforme cada título em link: [Nome do projeto](https://github.com/grasielip/nome-do-repositorio) -->
-
---
+---
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=grasielip&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Grasieli" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grasielip&layout=compact&theme=vue" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=grasielip&theme=vue" alt="GitHub Streak" /></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grasielip&theme=nord" alt="Profile Details" />
 </div>
 
 ---
 
 ### 🐍 Minhas contribuições
 
-![github-snake](https://raw.githubusercontent.com/grasielip/grasielip/main/dist/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/grasielip/grasielip/main/dist/github-contribution-grid-snake.svg" alt="github-snake" />
+</div>
+
+---
 
 ## 📫 Como me alcançar
 
