@@ -26,26 +26,28 @@ Java, Python, desenvolvimento de APIs, AWS, Oracle Database, SQL e automação c
 - Projetos de cloud computing e automação.
 - Arquitetura AWS e deploy seguro.
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens**
+<p align="left">
+  <!-- Linguagens -->
+  **Linguagens**
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-![Python](https://img.shields.io/badge/Python-0F1B26?style=for-the-badge&logo=python&logoColor=5CC8D0)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F1B26?style=for-the-badge&logo=javascript&logoColor=5CC8D0)
-![Java](https://img.shields.io/badge/Java-0F1B26?style=for-the-badge&logo=java&logoColor=5CC8D0)
-![HTML5](https://img.shields.io/badge/HTML5-0F1B26?style=for-the-badge&logo=html5&logoColor=5CC8D0)
+  <!-- Nuvem e Dados -->
+  **Nuvem e dados**
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  
+  <!-- Automação & Ferramentas -->
+  **Automação**
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=n.js&logoColor=white" alt="Node.js" />
+</p>
 
-**Nuvem e dados**
-
-![AWS](https://img.shields.io/badge/AWS-0F1B26?style=for-the-badge&logo=amazon-aws&logoColor=E3A33B)
-![Oracle](https://img.shields.io/badge/Oracle-0F1B26?style=for-the-badge&logo=oracle&logoColor=E3A33B)
-![MySQL](https://img.shields.io/badge/MySQL-0F1B26?style=for-the-badge&logo=mysql&logoColor=E3A33B)
-![Power BI](https://img.shields.io/badge/Power_BI-0F1B26?style=for-the-badge&logo=powerbi&logoColor=E3A33B)
-
-**Automação**
-
-![Node.js](https://img.shields.io/badge/Node.js-0F1B26?style=for-the-badge&logo=nodedotjs&logoColor=5CC8D0)
-![n8n](https://img.shields.io/badge/n8n-0F1B26?style=for-the-badge&logo=n8n&logoColor=5CC8D0)
+---
 
 ## 🎓 Certificações
 
@@ -60,11 +62,19 @@ Java, Python, desenvolvimento de APIs, AWS, Oracle Database, SQL e automação c
 
 <!-- Quando criar os repositórios, transforme cada título em link: [Nome do projeto](https://github.com/grasielip/nome-do-repositorio) -->
 
-## 📊 Estatísticas
+--
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=grasielip&layout=compact&bg_color=0F1B26&title_color=5CC8D0&text_color=C5D0D9&border_color=243039)
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=grasielip&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Grasieli" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grasielip&layout=compact&theme=vue" alt="Linguagens mais usadas" />
+</div>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=grasielip&show_icons=true&bg_color=0F1B26&title_color=5CC8D0&text_color=C5D0D9&icon_color=E3A33B&border_color=243039)
+<div align="center">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=grasielip&theme=vue" alt="GitHub Streak" /></p>
+</div>
+
+---
 
 ### 🐍 Minhas contribuições
 
