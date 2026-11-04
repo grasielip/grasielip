@@ -66,6 +66,25 @@ Java, Python, desenvolvimento de APIs, AWS, Oracle Database, SQL e automação c
 
 ---
 
+## 🏅 Certificações e Badges
+
+Minhas conquistas e credenciais na área de tecnologia.
+
+### ☁️ Cloud Computing
+
+[![Credly](https://img.shields.io/badge/Credly-Ver%20minhas%20badges-orange?logo=credly)](https://www.credly.com/users/grasieli-figueredo)
+
+### 🌐 Redes e Segurança
+
+[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Academy-blue?logo=cisco)](https://www.credly.com/users/grasieli-figueredo)
+
+### 🎓 Outras certificações
+
+Consulte meu perfil público no Credly para visualizar e validar minhas credenciais.
+
+[Ver todas as badges no Credly](https://www.credly.com/users/grasieli-figueredo)
+
+
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grasielip&theme=nord" alt="Profile Details" />
